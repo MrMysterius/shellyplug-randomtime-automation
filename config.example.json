@@ -1,0 +1,15 @@
+[
+  {
+    "ip": "127.0.0.1",
+    "action": "on",
+    "time": {
+      "startHour": 10,
+      "startMinute": 0,
+      "minuteRange": 0
+    },
+    "shelly": {
+      "username": "",
+      "password": ""
+    }
+  }
+]
