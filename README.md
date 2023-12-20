@@ -1,4 +1,5 @@
 # ShellyPlug Randomtime Automation
+> NodeJS automated ShellyPlug toggle at semi random times
 
 An Automation Script for toggling an ShellyPlugs Output at random Times of Day.
 
