@@ -10,7 +10,7 @@ An Automation Script for toggling an ShellyPlugs Output at random Times of Day.
 
 Prerequisites include:
 - [NodeJS](https://nodejs.org) (Tested on v19 and v16)
-- [pnpm](https://pnpm.io)https://pnpm.io
+- [pnpm](https://pnpm.io)
 
 Installation:
 - Clone this Repository
