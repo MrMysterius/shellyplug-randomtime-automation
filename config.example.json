@@ -5,7 +5,8 @@
     "time": {
       "startHour": 10,
       "startMinute": 0,
-      "minuteRange": 0
+      "minuteRange": 0,
+      "weekdays": []
     },
     "shelly": {
       "username": "",

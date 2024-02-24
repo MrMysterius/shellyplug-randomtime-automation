@@ -50,7 +50,8 @@ This is a action that switches the ShellyPlug on at 192.168.33.1 between 10:00 a
   "time": {
     "startHour": 10,
     "startMinute": 0,
-    "minuteRange": 30
+    "minuteRange": 30,
+    "weekDays": []
   },
   "shelly": {
     "username": "admin",
@@ -87,6 +88,10 @@ The minute mark within the hour at which the randomization range starts. This is
 ##### `time.minuteRange`
 
 The range in minutes in which it randomizes from the start time. This is a number.
+
+##### `time.weekdays`
+
+An array of numbers on which weekdays this action should happen. (Weekdays are with numbers not with names, so use 1 for Monday, 2 for Tuesday, and so on.)
 
 #### `shelly`
 
